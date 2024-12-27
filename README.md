@@ -1,13 +1,14 @@
 ### Hi There :wave:
 
 I'm a Software Engineer based in Buenos Aires. 
-I have experience working on frontend(Vanilla JS, React, Angular JS, React Native) and backend(PHP, Python, Node JS).
+I am currently a Mobile Engineer, but I also have experience in frontend(Vanilla JS, React, Angular JS, React Native) and backend(PHP, Python, Node JS).
+I love to build products that resonate with users, using empathy and accessibility as a solid foundation for development.
 
-- 🔭 I’m currently working on a React Native Project with Typescript and GraphQL.
+- 🔭 I’m currently working at Lemon Cash 🍋
 - 👀 I’m interested in IoT, DeFi, machine learning.
-- 👯 I’m looking to collaborate on React and React Native projects.
+- 👯 I’m looking to collaborate on open-source projects that focus on innovation and community-driven development.
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I'm also a musician. I sing and play guitar, bass and drums.
+- ⚡ Fun fact: I'm also a musician and producer. I'm currently working 
 - 📫 Reach me by [Email](mailto:guadalupe.perezb@gmail.com)
 
 Social media:
