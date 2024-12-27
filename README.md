@@ -8,7 +8,7 @@ I love to build products that resonate with users, using empathy and accessibili
 - 👀 I’m interested in IoT, DeFi, machine learning.
 - 👯 I’m looking to collaborate on open-source projects that focus on innovation and community-driven development.
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I'm also a musician and producer. I'm currently working 
+- ⚡ Fun fact: I'm also a musician and producer. I'm currently digging into techno and hard groove production. 
 - 📫 Reach me by [Email](mailto:guadalupe.perezb@gmail.com)
 
 Social media:
